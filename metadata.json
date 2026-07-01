@@ -1,0 +1,6 @@
+{
+  "name": "Physical Education Career",
+  "description": "One Platform for School Students, College Students & Physical Education Aspirants",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
